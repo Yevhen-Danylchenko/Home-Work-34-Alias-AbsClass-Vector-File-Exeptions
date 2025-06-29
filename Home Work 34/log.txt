@@ -1,0 +1,23 @@
+[LOG] Speed: 85
+[LOG] Status: 100
+[LOG] Code: 15
+[LOG] Speed: 85
+[LOG] Status: 100
+[LOG] Code: 15
+[LOG] Speed: 85
+[LOG] Status: 100
+[LOG] Code: 15
+[LOG] asc: 12
+[LOG] asc: 17
+[LOG] asc_1: 19
+[LOG] qwe: 12
+[LOG] asd: 13
+[LOG] zxc: 17
+[LOG] asd: 12qwerty
+[MYLOG] qwert: 12: asdfgg
+[MYLOG] asdf: 13: -1
+[MYLOG] asdfggh: 12: 12.3
+[MYLOG] qwer: 12: 12
+[MYLOG] qwer: 12: 12
+[MYLOG] asd: 13: 13
+[MYLOG] zxcv: 14: 14
