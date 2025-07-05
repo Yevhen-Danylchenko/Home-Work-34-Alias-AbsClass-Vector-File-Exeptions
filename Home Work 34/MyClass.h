@@ -37,7 +37,7 @@ namespace MyAbsClass {
         T extra;
 
     public:
-        Record(const std::string& name, double value, const T& extra)
+        explicit Record(const std::string& name, double value, const T& extra)
             : name(name), value(value), extra(extra) {
             if (value < 0)
                 throw std::invalid_argument("«мiнна не може бути негативна.");

@@ -21,3 +21,4 @@
 [MYLOG] qwer: 12: 12
 [MYLOG] asd: 13: 13
 [MYLOG] zxcv: 14: 14
+[MYLOG] asd: 1: 7
